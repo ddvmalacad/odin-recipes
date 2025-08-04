@@ -1,7 +1,4 @@
 /* index html */
-/* d4e09b  f6f4d2  cbdfbd f19c79 */
-/* c is base f could be outline  d could be headings c could be flexible*/
-
 
 a:link {
     color: #ffffff; /* Unvisited link */
@@ -24,25 +21,29 @@ a:link {
 }
 
   
-body{
-    background-color: #cbdfbd;
+#indexbg{
+    background-color: #032539;
     box-sizing: border-box;
     font-family: "Helvetica", serif;
 }
 
 .title1{
     font: 80px;
-    color:#ffffff;
+    color:#FBF3F2;
     text-align: center;
     margin: 10px auto;
     padding: 5px;
     width: 400px;
-    background-color: #f19c70;
-    border-color: #d4e09b;
+    background-color: #FA991C;
+    border-color: #1C768F;
     border-style: solid;
-    border-width: 4px;
+    border-width: 3.5px;
 }
 
+span{
+    font-weight: 800;
+    color: #1C768F
+}
 .p1{
     margin: 10px auto;
     padding: 5px;
@@ -53,14 +54,15 @@ body{
     display: block;
     margin: 20px auto;
     width: 400px;
-    background-color: #f19c70;
+    background-color: #FA991C;;
     font-size: 20px;
     padding: 5px;
-    border-color: #d4e09b;
+    border-color: #1C768F;
+    color: #FBF3F2;
 }
 
 .bgbox{
-    background-color: #f6f4d2;
+    background-color: #FBF3F2;
     height: 300px;
     width: 600px;
     margin: 0 auto;
@@ -69,14 +71,18 @@ body{
 
 /* eggplantparm.html */
 
+#eplantparm{
+    background-color: #FBF3F2;
+}
+
 .title2{
-    background-color: #d4e09b;
-    color: white;
+    background-color: #FA991C;
+    color:#FBF3F2;
     width: 550px;
     margin: 10px auto;
     padding: 10px;
     text-align: center;
-    border: solid 4px #f19c79;
+    border: solid 4px #1C768F;
 }
 
 
@@ -84,7 +90,7 @@ body{
     margin: auto;
     display: block;
     width: 550px;
-    border: solid 2px #f19c79;
+    border: solid 2px #1C768F;
 }
 
 figcaption{
@@ -93,19 +99,19 @@ figcaption{
     padding: 10px;
     text-align: center;
     background-color: red;
-    color: white;
+    color:#FBF3F2;
     width: 300px;
-    border: solid 2px #f19c79;
+    border: solid 2px #1C768F
 }
 
 .desc1{
     font-size: 30px;
     text-align: center;
     margin: auto;
-    background-color: #d4e09b;
+    background-color: #FA991C;
     width: 300px;
-    border: solid 2px #f19c79;
-    color: white;
+    border: solid 2px #1C768F;
+    color:#FBF3F2;
 }
 
 .descp{
@@ -120,10 +126,10 @@ figcaption{
     font-size: 30px;
     text-align: center;
     margin: auto;
-    background-color: #d4e09b;
+    background-color: #FA991C;
     width: 300px;
-    border: solid 2px #f19c79;
-    color: white;
+    border: solid 2px #1C768F;
+    color:#FBF3F2;
 }
 
 .disclaimer{
@@ -132,9 +138,9 @@ figcaption{
     padding: 10px;
     text-align: center;
     background-color: red;
-    color: white;
+    color:#FBF3F2;
     width: 300px;
-    border: solid 2px #f19c79;
+    border: solid 2px #1C768F;
 }
 
 .ingrlist{
@@ -147,10 +153,10 @@ figcaption{
     font-size: 30px;
     text-align: center;
     margin: auto;
-    background-color: #d4e09b;
+    background-color: #FA991C;
     width: 300px; 
-    border: solid 2px #f19c79;
-    color: white;
+    border: solid 2px #1C768F;
+    color:#FBF3F2;
 }
 
 .stepsp{
