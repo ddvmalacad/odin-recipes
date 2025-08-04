@@ -168,3 +168,82 @@ li{
     margin: 5px;
     padding: 10px;
 }
+
+/* bastedribeye */
+
+#bribeye{
+    background-color: #FBF3F2;
+}
+
+.title3{
+    background-color: #FA991C;
+    color:#FBF3F2;
+    width: 550px;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    border: solid 4px #1C768F;
+}
+
+#ribeye{
+    margin: auto;
+    display: block;
+    width: 550px;
+    border: solid 2px #1C768F;
+}
+
+.desc2{
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    background-color: #FA991C;
+    width: 300px;
+    border: solid 2px #1C768F;
+    color:#FBF3F2;
+}
+
+.descp2{
+    margin: auto;
+    text-align: center;
+    font-size: 15px;
+    width: 400px;
+    display: inline;
+}
+
+.ingr2{
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    background-color: #FA991C;
+    width: 300px;
+    border: solid 2px #1C768F;
+    color:#FBF3F2;
+}
+
+.ingrlist2{
+    margin: 0 auto;
+    padding-left: 520px;
+    text-align: left;
+}
+
+.steps2{
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    background-color: #FA991C;
+    width: 300px; 
+    border: solid 2px #1C768F;
+    color:#FBF3F2;
+}
+
+.stepsp2{
+    margin: 10px auto;
+    width: 600px;
+}
+
+
+
+
+
+
+
