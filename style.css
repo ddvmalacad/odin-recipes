@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(215, 235, 252);
+    box-sizing: border-box;
+}
+
+.title1{
+    font: 80px;
+    color:azure;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    width: 400px;
+    background-color: rgb(218, 123, 123);
+    border-color: rgb(244, 244, 244);
+    border-style: solid;
+    border-width: 4px;
+}
+
+.p1{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.butt{
+    display: block;
+    margin: 20px auto;
+    width: 400px;
+    background-color: azure;
+    font-size: 20px;
+    padding: 5px;
+    border: solid 4px black;
+}
