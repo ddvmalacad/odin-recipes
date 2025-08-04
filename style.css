@@ -1,6 +1,7 @@
 body{
     background-color: rgb(215, 235, 252);
     box-sizing: border-box;
+    font-family: "Roboto", serif;
 }
 
 .title1{
@@ -30,4 +31,12 @@ body{
     font-size: 20px;
     padding: 5px;
     border: solid 4px black;
+}
+
+.bgbox{
+    background-color: rgb(115, 187, 187);
+    height: 300px;
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 20px;
 }
