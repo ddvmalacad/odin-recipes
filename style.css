@@ -70,12 +70,13 @@ body{
 /* eggplantparm.html */
 
 .title2{
-    background-color: whitesmoke;
+    background-color: #d4e09b;
+    color: white;
     width: 550px;
     margin: 10px auto;
     padding: 10px;
     text-align: center;
-    border: solid 5px black;
+    border: solid 4px #f19c79;
 }
 
 
@@ -83,7 +84,7 @@ body{
     margin: auto;
     display: block;
     width: 550px;
-    border: solid 5px black;
+    border: solid 2px #f19c79;
 }
 
 figcaption{
@@ -94,16 +95,17 @@ figcaption{
     background-color: red;
     color: white;
     width: 300px;
-    border: solid 2px black;
+    border: solid 2px #f19c79;
 }
 
 .desc1{
     font-size: 30px;
     text-align: center;
     margin: auto;
-    background-color: whitesmoke;
+    background-color: #d4e09b;
     width: 300px;
-    border: solid 5px black;
+    border: solid 2px #f19c79;
+    color: white;
 }
 
 .descp{
@@ -118,9 +120,10 @@ figcaption{
     font-size: 30px;
     text-align: center;
     margin: auto;
-    background-color: whitesmoke;
+    background-color: #d4e09b;
     width: 300px;
-    border: solid 5px black;
+    border: solid 2px #f19c79;
+    color: white;
 }
 
 .disclaimer{
@@ -131,7 +134,7 @@ figcaption{
     background-color: red;
     color: white;
     width: 300px;
-    border: solid 5px black;
+    border: solid 2px #f19c79;
 }
 
 .ingrlist{
@@ -144,9 +147,10 @@ figcaption{
     font-size: 30px;
     text-align: center;
     margin: auto;
-    background-color: whitesmoke;
+    background-color: #d4e09b;
     width: 300px; 
-    border: solid 5px black;
+    border: solid 2px #f19c79;
+    color: white;
 }
 
 .stepsp{
