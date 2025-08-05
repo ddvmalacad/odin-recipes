@@ -325,6 +325,7 @@ li{
     border: solid 2px #1C768F;
     text-align: center;
     font-size: 15px;
+    flex: 1;
 }
 
 .ms{
@@ -333,6 +334,7 @@ li{
     border: solid 2px #1C768F;
     text-align: center;
     font-size: 15px;
+    flex: 1;
 }
 
 .bre{
@@ -341,6 +343,7 @@ li{
     border: solid 2px #1C768F;
     text-align: center;
     font-size: 15px;
+    flex: 1;
 }
 
 .homepage{
@@ -349,10 +352,11 @@ li{
     border: solid 2px #1C768F;
     text-align: center;
     font-size: 15px;
+    flex: 2;
 }
 
 #butts3{
     display: flex;
     justify-content: center;
-    gap: 350px;
+    flex: 1;
 }
